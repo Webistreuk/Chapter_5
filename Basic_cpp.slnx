@@ -3,5 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Basic_cpp/Basic_cpp.vcxproj" />
+  <Project Path="Basic_cpp/Basic_cpp.vcxproj" Id="146b781f-2afc-4f28-af1b-b071148ec7d8">
+    <BuildType Solution="Release|x64" Project="Debug" />
+  </Project>
 </Solution>
